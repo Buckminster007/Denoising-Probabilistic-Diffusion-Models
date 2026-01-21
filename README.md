@@ -17,6 +17,10 @@ The experiments focus on generating flower images from text prompts and analyzin
 * **Analyze generated images** using **FiftyOne** and **FiftyOne Brain** (computing Uniqueness and Representativeness scores).
 * **Log experiments, metrics, and visualizations** using **Weights & Biases (wandb)**.
 
+##WandB ID
+
+https://wandb.ai/rishikeshbharti007-university-of-potsdam/diffusion_model_assessment_v2
+
 ## Author
 
 **Rishikesh Bharti**
